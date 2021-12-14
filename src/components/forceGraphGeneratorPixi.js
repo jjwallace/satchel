@@ -118,7 +118,7 @@ export function runForceGraphPixi(
     const boundDrag = onDragMove.bind(node);
     const { name, symbol, image, market_cap_rank } = node;
 
-    var drawSize = market_cap_rank / 2;
+    var drawSize = 10;//market_cap_rank / 2;
     node.gfx = new PIXI.Graphics();
     node.gfx.lineStyle(1, 0xD3D3D3);
     node.gfx.beginFill(colorScale(node.id));
