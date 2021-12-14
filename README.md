@@ -1,3 +1,15 @@
+Alice: Highly interactive visual crypto explorer application.
+
+React, PIXIjs, D3js
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
